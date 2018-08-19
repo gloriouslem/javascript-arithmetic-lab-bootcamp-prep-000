@@ -22,7 +22,10 @@ function dec(n) {
   return n - 1;
 }
 
-
+function makeInt(n) {
+  return ; 
+}
+}
 
 function makeInt(n) {
   return n + 1;
